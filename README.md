@@ -6,3 +6,5 @@
 
 
 #### This is a POS application for Goha Hotel
+
+<h3> POS using python and php
