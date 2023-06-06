@@ -10,3 +10,4 @@
 <h3> POS using python and php</h3>
 <h4> File not found</h4>
 ### Please give a star if you found it helpful
+## POS Machine is not Active
