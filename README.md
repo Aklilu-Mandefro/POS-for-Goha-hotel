@@ -15,3 +15,4 @@
 ## POS Machine is not Active
 
 #### POS
+## Not for sale
